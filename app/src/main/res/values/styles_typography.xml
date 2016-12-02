@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Text.Display1" parent="TextAppearance.AppCompat.Display1" />
+    <style name="Text.Title" parent="TextAppearance.AppCompat.Title" />
+    <style name="Text.Subhead" parent="TextAppearance.AppCompat.Subhead" />
+    <style name="Text.Body1" parent="TextAppearance.AppCompat.Body1" />
+    <style name="Text.Body2" parent="TextAppearance.AppCompat.Body2" />
+
+</resources>

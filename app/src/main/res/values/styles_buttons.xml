@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Button.Primary" parent="Widget.AppCompat.Button.Colored" />
+    <style name="Button.Secondary" parent="Widget.AppCompat.Button" />
+
+    <style name="FlatButton.Primary" parent="Base.Widget.AppCompat.Button.Borderless.Colored" />
+    <style name="FlatButton.Secondary" parent="Base.Widget.AppCompat.Button.Borderless" />
+
+</resources>
